@@ -15,8 +15,7 @@ import requests
 import time
 
 client = discord.Client() # Create Instance of Client. This Client is discord server's connection to Discord Room
-access_token - os.environ["BOT_TOKEN"]
-bottoken = 'access_token'
+bottoken = 'Nzk0Mzc3Mzc4MTA4OTMyMDk3.X-57lQ.9LchtMrO_vyoMBtvBwBdYSx_Rtk'
 
 
 @client.event # Use these decorator to register an event.
